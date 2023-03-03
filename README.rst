@@ -26,7 +26,10 @@ TODO
 
 Books
 =====
-TODO
+- `AI for Games, Third Edition (2020) by Ian Millington <https://www.amazon.com/AI-Games-Third-Ian-Millington/dp/0367670569>`_
+- `Artificial Intelligence: A Modern Approach, 4th Edition (2020) by Stuart Russell and Peter Norvig 
+  <https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997>`_
+- `Programming Game AI by Example (2004) by Mat Buckland <https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/1556220782/>`_
 
 Video lectures
 ==============
