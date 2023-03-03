@@ -34,7 +34,7 @@ General
 -------
 MIT 6.034 Artificial Intelligence (Fall 2010)
 """""""""""""""""""""""""""""""""""""""""""""
-`:information_source:`:
+`:information_source:`
 
  - **Playlist link:** `youtube.com <https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi>`_
  - 30 videos
@@ -48,7 +48,7 @@ MIT 6.034 Artificial Intelligence (Fall 2010)
 
 UC Berkeley CS 188 Introduction to Artificial Intelligence (Fall 2018)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-`:information_source:`:
+`:information_source:`
  
  - **Playlist link:** `youtube.com <https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF>`_
  - 25 videos
@@ -62,7 +62,7 @@ UC Berkeley CS 188 Introduction to Artificial Intelligence (Fall 2018)
 
 Stanford CS221: Artificial Intelligence: Principles and Techniques (Autumn 2019)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-`:information_source:`:
+`:information_source:`
 
  - **Playlist link:** `youtube.com <https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX>`_
  - 19 videos
@@ -77,7 +77,7 @@ Stanford CS221: Artificial Intelligence: Principles and Techniques (Autumn 2019)
 
 Stanford CS221: Artificial Intelligence: Principles and Techniques (Autumn 2021) 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-`:information_source:`:
+`:information_source:`
 
  - **Playlist link:** `youtube.com <https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2>`_
  - 56 videos: they include videos from the semester Autumn 2019
@@ -86,7 +86,7 @@ Websites
 ========
 Introduction to the A* Algorithm from Red Blob Games
 ----------------------------------------------------
-`:information_source:`:
+`:information_source:`
 
  - **Link:** `redblobgames.com https://www.redblobgames.com/pathfinding/a-star/introduction.html`_
  - Created 26 May 2014, updated Aug 2014, Feb 2016, Jun 2016, Jun 2020
