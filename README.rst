@@ -10,6 +10,12 @@ Implementing AI algorithms for video games
 
 Algorithms
 ==========
+Coordinate action
+-----------------
+Flocking algorithm
+""""""""""""""""""
+TODO
+
 Pathfinding
 -----------
 A*
