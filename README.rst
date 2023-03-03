@@ -91,17 +91,18 @@ Introduction to the A* Algorithm from Red Blob Games
  - **Link:** `redblobgames.com <https://www.redblobgames.com/pathfinding/a-star/introduction.html>`_
  - Created 26 May 2014, updated Aug 2014, Feb 2016, Jun 2016, Jun 2020
  - **Important:**
-    - Which algorithm should you use for finding paths on a game map?:
+ 
+   - Which algorithm should you use for finding paths on a game map?:
 
-      "If you want to find paths from or to all all locations, use **Breadth First Search** or **Dijkstra’s Algorithm**. 
-      Use Breadth First Search if movement costs are all the same; use Dijkstra’s Algorithm if movement costs vary.
+     "If you want to find paths from or to all all locations, use **Breadth First Search** or **Dijkstra’s Algorithm**. 
+     Use Breadth First Search if movement costs are all the same; use Dijkstra’s Algorithm if movement costs vary.
 
-      If you want to find paths to one location, or the closest of several goals, use **Greedy Best First Search** or A*. 
-      Prefer A* in most cases. When you’re tempted to use Greedy Best First Search, consider using A* with an 
-      “inadmissible” heuristic."
-    - "I have lots more written about pathfinding `here <http://theory.stanford.edu/~amitp/GameProgramming/>`_. 
-      Keep in mind that graph search is only one part of what you will need. A* doesn’t itself handle things like 
-      cooperative movement, moving obstacles, map changes, evaluation of dangerous areas, formations, turn radius, 
-      object sizes, animation, path smoothing, or lots of other topics."
-  
+     If you want to find paths to one location, or the closest of several goals, use **Greedy Best First Search** or A*. 
+     Prefer A* in most cases. When you’re tempted to use Greedy Best First Search, consider using A* with an 
+     “inadmissible” heuristic."
+  - "I have lots more written about pathfinding `here <http://theory.stanford.edu/~amitp/GameProgramming/>`_. 
+    Keep in mind that graph search is only one part of what you will need. A* doesn’t itself handle things like 
+    cooperative movement, moving obstacles, map changes, evaluation of dangerous areas, formations, turn radius, 
+    object sizes, animation, path smoothing, or lots of other topics."
+
     
