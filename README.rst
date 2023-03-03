@@ -29,6 +29,12 @@ Books
 - `AI for Games, Third Edition (2020) by Ian Millington <https://www.amazon.com/AI-Games-Third-Ian-Millington/dp/0367670569>`_
 - `Artificial Intelligence: A Modern Approach, 4th Edition (2020) by Stuart Russell and Peter Norvig 
   <https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997>`_
+- `Game AI Pro: Collected Wisdom of Game AI Professionals (2013) by Steve Rabin (editor) 
+  <https://www.amazon.com/Game-AI-Pro-Collected-Professionals/dp/1466565969>`_
+- `Game AI Pro 2: Collected Wisdom of Game AI Professionals (2015) by Steve Rabin (editor) 
+  <https://www.amazon.com/Game-AI-Pro-Collected-Professionals/dp/1482254794>`_
+- `Game AI Pro 3: Collected Wisdom of Game AI Professionals (2017) by Steve Rabin (editor)
+  <https://www.amazon.com/Game-AI-Pro-Collected-Professionals/dp/1498742580>`_
 - `Programming Game AI by Example (2004) by Mat Buckland <https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/1556220782/>`_
 
 Video lectures
