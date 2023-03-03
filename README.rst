@@ -88,7 +88,7 @@ Introduction to the A* Algorithm from Red Blob Games
 ----------------------------------------------------
 `:information_source:`
 
- - **Link:** `redblobgames.com https://www.redblobgames.com/pathfinding/a-star/introduction.html`_
+ - **Link:** `redblobgames.com <https://www.redblobgames.com/pathfinding/a-star/introduction.html>`_
  - Created 26 May 2014, updated Aug 2014, Feb 2016, Jun 2016, Jun 2020
  - **Important:**
     - Which algorithm should you use for finding paths on a game map?:
