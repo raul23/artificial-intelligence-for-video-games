@@ -92,7 +92,7 @@ Introduction to the A* Algorithm from Red Blob Games
  - Created 26 May 2014, updated Aug 2014, Feb 2016, Jun 2016, Jun 2020
  - **Important:**
  
-   - Which algorithm should you use for finding paths on a game map?:
+   - Which algorithm should you use for finding paths on a game map?
 
      "If you want to find paths from or to all all locations, use **Breadth First Search** or **Dijkstra’s Algorithm**. 
      Use Breadth First Search if movement costs are all the same; use Dijkstra’s Algorithm if movement costs vary.
