@@ -1,7 +1,7 @@
 =======================================
 Artificial intelligence for video games
 =======================================
-Implementing AI algorithms for video games
+Exploring and implementing AI algorithms for video games
 
 .. contents:: **Contents**
    :depth: 5
