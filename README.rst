@@ -100,9 +100,9 @@ Introduction to the A* Algorithm from Red Blob Games
      If you want to find paths to one location, or the closest of several goals, use **Greedy Best First Search** or A*. 
      Prefer A* in most cases. When you’re tempted to use Greedy Best First Search, consider using A* with an 
      “inadmissible” heuristic."
-  - "I have lots more written about pathfinding `here <http://theory.stanford.edu/~amitp/GameProgramming/>`_. 
-    Keep in mind that graph search is only one part of what you will need. A* doesn’t itself handle things like 
-    cooperative movement, moving obstacles, map changes, evaluation of dangerous areas, formations, turn radius, 
-    object sizes, animation, path smoothing, or lots of other topics."
+   - "I have lots more written about pathfinding `here <http://theory.stanford.edu/~amitp/GameProgramming/>`_. 
+     Keep in mind that graph search is only one part of what you will need. A* doesn’t itself handle things like 
+     cooperative movement, moving obstacles, map changes, evaluation of dangerous areas, formations, turn radius, 
+     object sizes, animation, path smoothing, or lots of other topics."
 
     
