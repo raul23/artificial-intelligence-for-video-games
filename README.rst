@@ -10,12 +10,6 @@ Exploring and implementing AI algorithms for video games
 
 Algorithms
 ==========
-Coordinate action
------------------
-Flocking algorithm
-""""""""""""""""""
-TODO
-
 Maze solving algorithms
 -----------------------
 
@@ -78,6 +72,10 @@ From the `Wikipedia article <https://en.wikipedia.org/wiki/A*_search_algorithm#P
 
        // Open set is empty but goal was never reached
        return failure
+
+Swarm algorithms
+----------------
+TODO
 
 Books
 =====
