@@ -10,8 +10,23 @@ Exploring and implementing AI algorithms for video games
 
 Algorithms
 ==========
-Maze solving algorithms
+Flocking algorithm
+------------------
+TODO
+
+Maze-solving algorithms
 -----------------------
+random mouse
+""""""""""""
+TODO
+
+wall follower
+"""""""""""""
+TODO
+
+Pledge algorithm
+""""""""""""""""
+TODO
 
 Pathfinding
 -----------
@@ -72,6 +87,10 @@ From the `Wikipedia article <https://en.wikipedia.org/wiki/A*_search_algorithm#P
 
        // Open set is empty but goal was never reached
        return failure
+
+Implementation (JavaScript)
+'''''''''''''''''''''''''''
+TODO
 
 Swarm algorithms
 ----------------
