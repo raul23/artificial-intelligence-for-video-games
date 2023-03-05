@@ -100,7 +100,12 @@ Articles
 ========
 - Abd Algfoor, Zeyad; Sunar, Mohd Shahrizal; Kolivand, Hoshang (2015). `"A Comprehensive Study on Pathfinding 
   Techniques for Robotics and Video Games" <https://www.hindawi.com/journals/ijcgt/2015/736138/>`_. 
-  International Journal of Computer Games Technology. 2015: 1–11. doi:10.1155/2015/736138
+  International Journal of Computer Games Technology. 2015: 1–11. doi:10.1155/2015/736138.
+- Hagelback, Johan, and Stefan J. Johansson. `"Dealing with fog of war in a real-time strategy game environment." 
+  <https://ieeexplore.ieee.org/document/5035621>`_ In Computational Intelligence and Games, 2008. CIG'08. 
+  IEEE Symposium On, pp. 55-62. IEEE, 2008.
+- Lara-Cabrera, R., Nogueira-Collazo, M., Cotta, C., & Fernández-Leiva, A. J. (2015). 
+  `Game artificial intelligence: challenges for the scientific community <https://ceur-ws.org/Vol-1394/paper_1.pdf>`_.
 - Lidén, L. (2003). `Artificial stupidity: The art of intentional mistakes 
   <http://www.liden.cc/lars/WEB/Resume/Papers/2003_AIWisdom.pdf>`_. AI game programming wisdom, 2, 41-48.
   
