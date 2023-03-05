@@ -98,6 +98,9 @@ TODO
 
 Articles
 ========
+- Abd Algfoor, Zeyad; Sunar, Mohd Shahrizal; Kolivand, Hoshang (2015). `"A Comprehensive Study on Pathfinding 
+  Techniques for Robotics and Video Games" <https://www.hindawi.com/journals/ijcgt/2015/736138/>`_. 
+  International Journal of Computer Games Technology. 2015: 1–11. doi:10.1155/2015/736138
 - Lidén, L. (2003). `Artificial stupidity: The art of intentional mistakes 
   <http://www.liden.cc/lars/WEB/Resume/Papers/2003_AIWisdom.pdf>`_. AI game programming wisdom, 2, 41-48.
   
