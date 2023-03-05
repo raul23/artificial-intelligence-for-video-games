@@ -96,6 +96,20 @@ Swarm algorithms
 ----------------
 TODO
 
+Articles
+========
+- Lidén, L. (2003). `Artificial stupidity: The art of intentional mistakes 
+  <http://www.liden.cc/lars/WEB/Resume/Papers/2003_AIWisdom.pdf>`_. AI game programming wisdom, 2, 41-48.
+  
+   "During play-testing, it was discovered that occasionally when a player threw a
+   grenade at a group of NPCs, Half-Life’s **pathfinding algorithm** was unable to find
+   a path for all of the NPCs to escape. The behavior of remaining NPCs looked exceptionally 
+   dumb as they shuffled around trying to find a way out. Rather than redesigning the pathfinding 
+   system (a huge undertaking), Valve’s solution was to detect when
+   the problem occurred and play **specialty animations** of the trapped marines crouching
+   down and putting their hands over their heads. This was very well received by playtesters, 
+   as it added to the character of the game."
+
 Books
 =====
 - `AI for Games, Third Edition (2020) by Ian Millington <https://www.amazon.com/AI-Games-Third-Ian-Millington/dp/0367670569>`_
