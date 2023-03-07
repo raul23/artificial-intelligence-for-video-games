@@ -12,7 +12,25 @@ Algorithms
 ==========
 Flocking algorithm
 ------------------
-TODO
+JavaScript: a port of Paul Roberts' C# implementation of flocking
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+.. raw:: html
+
+   <div align="center">
+    <a href="https://codepen.io/raul23/full/rNZwZVB" target="_blank">
+      <img src="https://github.com/raul23/flocking-algorithms/blob/main/images/fullscreen.png">
+    </a>
+  </div>
+  
+- I ported a flocking algorithm implemented in C# code to JavaScript. The original author of the C# implementation
+  is Paul Roberts and it is from the book `Artificial Intelligence in Games 
+  <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_.
+- **JavaScript code:** 
+
+  - `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen)
+  - `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
+- More information about this JavaScript port can be found on my GitHub page 
+  `Flocking algorithms <https://github.com/raul23/flocking-algorithms>`_
 
 Maze-solving algorithms
 -----------------------
