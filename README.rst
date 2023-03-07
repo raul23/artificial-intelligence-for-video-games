@@ -27,7 +27,7 @@ In JavaScript: a port of Paul Roberts' C# implementation of flocking
   <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_.
 - **JavaScript code:** 
 
-  - `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen, test it live!)
+  - `codepen.io <https://codepen.io/raul23/full/rNZwZVB>`_ (fullscreen; **Test it live!**)
   - `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
 - More information about this JavaScript port can be found on my GitHub page 
   `Flocking algorithms <https://github.com/raul23/flocking-algorithms>`_
