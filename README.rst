@@ -110,6 +110,10 @@ Implementation (JavaScript)
 '''''''''''''''''''''''''''
 TODO
 
+Steering behaviors algorithms: Seek, Arrive, Flee, Avoidance, and Wander
+------------------------------------------------------------------------
+TODO
+
 Swarm algorithms
 ----------------
 TODO
