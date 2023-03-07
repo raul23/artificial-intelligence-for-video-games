@@ -10,6 +10,10 @@ Exploring and implementing AI algorithms for video games
 
 Algorithms
 ==========
+Chess AI (TODO)
+---------------
+TODO
+
 Flocking algorithm
 ------------------
 In JavaScript: a port of Paul Roberts' C# implementation of flocking
@@ -34,16 +38,16 @@ In JavaScript: a port of Paul Roberts' C# implementation of flocking
 
 Maze-solving algorithms
 -----------------------
-random mouse
-""""""""""""
+random mouse (TODO)
+"""""""""""""""""""
 TODO
 
-wall follower
-"""""""""""""
+wall follower (TODO)
+""""""""""""""""""""
 TODO
 
-Pledge algorithm
-""""""""""""""""
+Pledge algorithm (TODO)
+"""""""""""""""""""""""
 TODO
 
 Pathfinding
@@ -106,16 +110,16 @@ From the `Wikipedia article <https://en.wikipedia.org/wiki/A*_search_algorithm#P
        // Open set is empty but goal was never reached
        return failure
 
-Implementation (JavaScript)
-'''''''''''''''''''''''''''
+Implementation (JavaScript) [TODO]
+''''''''''''''''''''''''''''''''''
 TODO
 
-Steering behaviors algorithms: Seek, Arrive, Flee, Avoidance, and Wander
-------------------------------------------------------------------------
+Steering behaviors: Seek, Arrive, Flee, Avoidance, and Wander (TODO)
+--------------------------------------------------------------------
 TODO
 
-Swarm algorithms
-----------------
+Swarm algorithms (TODO)
+-----------------------
 TODO
 
 Articles
