@@ -116,6 +116,10 @@ TODO
 
 Steering behaviors: Seek, Arrive, Flee, Avoidance, and Wander (TODO)
 --------------------------------------------------------------------
+Combining all steering behaviors (TODO)
+"""""""""""""""""""""""""""""""""""""""
+TODO
+
 Wandering: a JavaScript port of Paul Roberts' C# implementation of wandering
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. raw:: html
