@@ -122,7 +122,7 @@ Wandering: a JavaScript port of Paul Roberts' C# implementation of wandering
 
    <div align="center">
     <a href="https://codepen.io/raul23/full/LYJzygm" target="_blank">
-      <img src="https://raw.githubusercontent.com/raul23/steering-behaviors/main/images/wandering_fullscreen.png">
+      <img src="https://raw.githubusercontent.com/raul23/steering-behaviors/main/images/wandering_fullscreen_with_options.png">
     </a>
     <p align="center">Debug mode enabled: blue lines represent the facing direction where the green balls are heading</p>
   </div>
