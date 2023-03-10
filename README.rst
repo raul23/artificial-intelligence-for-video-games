@@ -116,9 +116,6 @@ TODO
 
 Steering behaviors: Seek, Arrive, Flee, Avoidance, and Wander (TODO)
 --------------------------------------------------------------------
-Combining all steering behaviors (TODO)
-"""""""""""""""""""""""""""""""""""""""
-TODO
 
 Wandering: a JavaScript port of Paul Roberts' C# implementation of wandering
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -140,6 +137,10 @@ Wandering: a JavaScript port of Paul Roberts' C# implementation of wandering
   - `codepen.io <https://codepen.io/raul23/pen/LYJzygm>`_ (source code)
 - More information about this JavaScript port can be found on my GitHub page 
   `Steering behaviors <https://github.com/raul23/steering-behaviors#wandering-algorithm>`_
+
+Combining all steering behaviors including flocking (TODO)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+TODO
 
 Swarm algorithms (TODO)
 -----------------------
