@@ -196,8 +196,7 @@ In JavaScript: a port of Paul Roberts' C# implementation of all steering behavio
        <p align="center">The green "zombies" arrived at destination which is the <br/>user-controlled red "zombie" 
        that is completely covered by them.
      </div>
-- More information about this project can be found at my GitHub page: `github.com/raul23/steering-behaviors 
-  <https://github.com/raul23/steering-behaviors>`_
+- More information about this project can be found at my GitHub page `Steering behaviors <https://github.com/raul23/steering-behaviors>`_
 
 Swarm algorithms (TODO)
 -----------------------
