@@ -183,7 +183,7 @@ In JavaScript: a port of Paul Roberts' C# implementation of all steering behavio
 - The user can control a red "zombie" (.i.e. ball) with the arrow keys and can move it anywhere around the
   canvas so that the other green "zombies" can use it as a target to avoid or follow.
   
-  In the case of the avoidance behavior, 
+  In the case of the arrive behavior, 
   eventually they will cease all movement once they reach an
   equilibrium state where all green "zombies" will be piled on top of each other.
   
