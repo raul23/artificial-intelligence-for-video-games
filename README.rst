@@ -140,7 +140,39 @@ In JavaScript: a port of Paul Roberts' C# implementation of all steering behavio
 - `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (fullscreen)
 - `codepen.io <https://codepen.io/raul23/pen/KKxQKzK>`_ (source code)
 
-- Each steering behavior has as an associated weight. These are the default values:
+- The author used zombies invading a shopping mall in search of fresh brains as a backdrop for a simple game where you will
+  implement and test different steering behaviors exhibited by the horde of zombies. 
+  
+  In the C# game, each zombie is represented as a green dot
+  on the screen and can be spawned at specific places and at a certain rate during the game. The user controls a 
+  black dot that can shoot at the zombies with the spacebar.
+  
+  .. raw:: html
+
+      <div align="center">
+       <a href="https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228" target="_blank">
+         <img src="https://raw.githubusercontent.com/raul23/flocking-algorithms/main/images/book_project.png">
+       </a>
+       <p align="center">From Paul Roberts' book <i>Artificial Intelligence in Games</i>, p.56</p>
+      </div>
+  
+  `:information_source:` 
+  
+   - In the JavaScript port, green balls serve as a substitute for zombies.
+   - Also for some of the steering behaviors, the user can control a red "zombie". For example, in the case of the 
+     avoidance JavaScript implementation, 
+     the user can move the red "zombie" anywhere on the canvas and the green "zombies" will try to avoid it like any other
+     obstacles.
+     
+     .. raw:: html
+
+         <div align="center">
+          <a href="https://codepen.io/raul23/full/KKxQKzK" target="_blank">
+            <img src="https://raw.githubusercontent.com/raul23/steering-behaviors/main/images/avoiding_red.png">
+          </a>
+          <p align="center">Green "zombies" avoiding the red "zombie" that can be controlled by the user</p>
+         </div>
+- Each steering behavior has an associated weight. These are the default values:
 
   - Arrive weight: 0.5
   - Avoidance weight: 0.75
