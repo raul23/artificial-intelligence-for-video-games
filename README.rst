@@ -139,6 +139,7 @@ In JavaScript: a port of Paul Roberts' C# implementation of all steering behavio
 
 - `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (fullscreen)
 - `codepen.io <https://codepen.io/raul23/pen/KKxQKzK>`_ (source code)
+- `github.com <https://github.com/raul23/steering-behaviors/tree/main/code/combining>`_ (source code)
 
 - The author used zombies invading a shopping mall in search of fresh brains as a backdrop for a simple game where you will
   implement and test different steering behaviors exhibited by the horde of zombies. 
