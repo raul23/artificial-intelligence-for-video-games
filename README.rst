@@ -114,33 +114,58 @@ Implementation (JavaScript) [TODO]
 ''''''''''''''''''''''''''''''''''
 TODO
 
-Steering behaviors: Seek, Arrive, Flee, Avoidance, and Wander (TODO)
---------------------------------------------------------------------
-
-Wandering: a JavaScript port of Paul Roberts' C# implementation of wandering
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Steering behaviors: Seek, Arrive, Flee, Avoidance, and Wander
+-------------------------------------------------------------
+In JavaScript: a port of Paul Roberts' C# implementation of all steering behaviors
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 .. raw:: html
 
    <div align="center">
-    <a href="https://codepen.io/raul23/full/LYJzygm" target="_blank">
-      <img src="https://raw.githubusercontent.com/raul23/steering-behaviors/main/images/wandering_fullscreen_with_options.png">
+    <a href="https://codepen.io/raul23/full/KKxQKzK" target="_blank">
+      <img src="https://raw.githubusercontent.com/raul23/steering-behaviors/main/images/combining_fullscreen_with_options.png">
     </a>
-    <p align="center">Debug mode enabled: blue lines represent the facing direction where the green balls are heading</p>
+    <p align="center">Green "zombies" wandering, flocking and avoiding obstacles including the user-controlled red "zombie"</p>
   </div>
+
+**Description**
+
+`:information_source:` 
+
+ I ported the steering behaviors implemented in C# (+ Unity) code from Paul Roberts' 
+ book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ to 
+ JavaScript using the ``phase.js`` 2D game development library.
+ 
+**JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
+
+- `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (fullscreen)
+- `codepen.io <https://codepen.io/raul23/pen/KKxQKzK>`_ (source code)
+
+- Each steering behavior has as an associated weight. These are the default values:
+
+  - Arrive weight: 0.5
+  - Avoidance weight: 0.75
+  - Flee weight: 0.5
+  - Flocking weight: 0.25
+  - Seek weight: 0.5
+  - Wander weight: 0.25
+- The user can control a red "zombie" (.i.e. ball) with the arrow keys and can move it anywhere around the
+  canvas so that the other green "zombies" can use it as a target to avoid or follow.
   
-- I ported a wandering algorithm implemented in C# code to JavaScript. The original author of the C# implementation
-  is Paul Roberts and it is from the book `Artificial Intelligence in Games 
-  <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_.
-- **JavaScript code:** 
+  In the case of the avoidance behavior, 
+  eventually they will cease all movement once they reach an
+  equilibrium state where all green "zombies" will be piled on top of each other.
+  
+  .. raw:: html
 
-  - `codepen.io <https://codepen.io/raul23/full/LYJzygm>`_ (fullscreen; **Test it live!**)
-  - `codepen.io <https://codepen.io/raul23/pen/LYJzygm>`_ (source code)
-- More information about this JavaScript port can be found on my GitHub page 
-  `Steering behaviors <https://github.com/raul23/steering-behaviors#wandering-algorithm>`_
-
-Combining all steering behaviors including flocking (TODO)
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-TODO
+      <div align="center">
+       <a href="https://codepen.io/raul23/full/KKxQKzK" target="_blank">
+         <img src="https://raw.githubusercontent.com/raul23/steering-behaviors/main/images/avoiding_covered_red.png">
+       </a>
+       <p align="center">The green "zombies" arrived at destination which is the <br/>user-controlled red "zombie" 
+       that is completely covered by them.
+     </div>
+- More information about this project can be found at my GitHub page: `github.com/raul23/steering-behaviors 
+  <https://github.com/raul23/steering-behaviors>`_
 
 Swarm algorithms (TODO)
 -----------------------
