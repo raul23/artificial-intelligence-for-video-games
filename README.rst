@@ -36,19 +36,19 @@ Go AI (TODO)
 ------------
 TODO
 
-Maze-solving algorithms
------------------------
-random mouse (TODO)
-"""""""""""""""""""
-TODO
+Maze-solving algorithms (TODO)
+------------------------------
+.. random mouse (TODO)
+.. """""""""""""""""""
+.. TODO
 
-wall follower (TODO)
-""""""""""""""""""""
-TODO
+.. wall follower (TODO)
+.. """"""""""""""""""""
+.. TODO
 
-Pledge algorithm (TODO)
-"""""""""""""""""""""""
-TODO
+.. Pledge algorithm (TODO)
+.. """""""""""""""""""""""
+.. TODO
 
 Pathfinding
 -----------
@@ -199,9 +199,9 @@ In JavaScript: a port of Paul Roberts' C# implementation of all steering behavio
      </div>
 - More information about this project can be found at my GitHub page `Steering behaviors <https://github.com/raul23/steering-behaviors>`_
 
-Swarm algorithms (TODO)
------------------------
-TODO
+.. Swarm algorithms (TODO)
+.. -----------------------
+.. TODO
 
 Articles
 ========
