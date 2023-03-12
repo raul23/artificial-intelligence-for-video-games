@@ -10,10 +10,6 @@ Exploring and implementing AI algorithms for video games
 
 Algorithms
 ==========
-Chess AI (TODO)
----------------
-TODO
-
 Flocking algorithm
 ------------------
 In JavaScript: a port of Paul Roberts' C# implementation of flocking
@@ -35,6 +31,10 @@ In JavaScript: a port of Paul Roberts' C# implementation of flocking
   - `codepen.io <https://codepen.io/raul23/pen/rNZwZVB>`_ (source code)
 - More information about this JavaScript port can be found on my GitHub page 
   `Flocking algorithms <https://github.com/raul23/flocking-algorithms>`_
+
+Go AI (TODO)
+------------
+TODO
 
 Maze-solving algorithms
 -----------------------
