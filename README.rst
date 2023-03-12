@@ -36,8 +36,8 @@ Go AI (TODO)
 ------------
 TODO
 
-Maze-solving algorithms (TODO)
-------------------------------
+.. Maze-solving algorithms (TODO)
+.. ------------------------------
 .. random mouse (TODO)
 .. """""""""""""""""""
 .. TODO
