@@ -137,7 +137,7 @@ In JavaScript: a port of Paul Roberts' C# implementation of all steering behavio
  
 **JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
 
-- `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (fullscreen)
+- `codepen.io <https://codepen.io/raul23/full/KKxQKzK>`_ (fullscreen; **Test it live!**)
 - `codepen.io <https://codepen.io/raul23/pen/KKxQKzK>`_ (source code)
 - `github.com <https://github.com/raul23/steering-behaviors/tree/main/code/combining>`_ (source code)
 
