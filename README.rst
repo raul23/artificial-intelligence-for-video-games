@@ -133,7 +133,7 @@ In JavaScript: a port of Paul Roberts' C# implementation of all steering behavio
 
  I ported the steering behaviors implemented in C# (+ Unity) code from Paul Roberts' 
  book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_ to 
- JavaScript using the ``phase.js`` 2D game development library.
+ JavaScript using the ``phaser.js`` 2D game development library.
  
 **JavaScript port:** you can run the JavaScript code (which uses ``phaser.js``) through your browser via codepen.io
 
