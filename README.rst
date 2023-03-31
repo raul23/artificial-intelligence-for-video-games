@@ -29,7 +29,7 @@ JavaScript: a port of Paul Roberts' C# chess program
 `:information_source:` 
 
  - It is a JavaScript port of the C# chess program from Paul Roberts' 
-   book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_. 
+   book `Artificial Intelligence in Games <https://www.routledge.com/Artificial-Intelligence-in-Games/Roberts/p/book/9781032033228>`_
  - The game AI is in the form of `Minimax with AlphaBeta pruning <https://github.com/raul23/chess-ai#game-ai>`_ based on the
    C# code by Paul Roberts 
  - I am using the pieces and chessboard images from `ChessJs <https://github.com/Jexan/ChessJs>`_ 
